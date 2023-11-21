@@ -10,7 +10,9 @@ class Program
 		{
 			Console.Write((int)(str[i]) + " ");
 
+
 		}
+		//ss
 
 	}
 }
